@@ -8,9 +8,9 @@ This is a Telegram bot named "Random Dog" that provides random dog images to use
 
 ## Technologies Used
 
-- python
-- python-telegram-bot==13.15
-- requests
+- python 3.10
+- python-telegram-bot 13.15
+- requests 2.31
 - python-dotenv
 
 ## Project structure
